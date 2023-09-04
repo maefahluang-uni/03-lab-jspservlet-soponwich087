@@ -30,6 +30,6 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 What benefit do we have from having integration tests in our project?
 ```
 Your though here
-```
+ตรวจสอบความถูกต้องโค้ด
 
 
